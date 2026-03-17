@@ -26,10 +26,9 @@ Maintainer: Helena Schmidt <helena.schmidt@ktrask.de>
 \keyword{ package
           signal}
 \seealso{
-  fft {stats}
+  \code{\link[stats]{fft}}
 }
 \examples{
   goertzel(c(3,2,1,-1,1,-2,-3,-2),1)
   # Result: 4.12132-7.535534i
 }
-

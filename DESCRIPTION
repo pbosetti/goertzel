@@ -5,7 +5,8 @@ Version: 1.0
 Date: 2017-01-17
 Author: Helena Schmidt
 Maintainer: Helena Schmidt <helena.schmidt@ktrask.de>
-Description: The Goertzel algorithm is faster than using a fast Fourier transform, if only a few Fourier components are requested
+Description: The Goertzel algorithm is faster than using a fast Fourier
+  transform when only a few Fourier components are requested.
 License: GPL (>= 2)
 SystemRequirements: C++20
 NeedsCompilation: yes
