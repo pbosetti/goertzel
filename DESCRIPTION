@@ -7,5 +7,7 @@ Author: Helena Schmidt
 Maintainer: Helena Schmidt <helena.schmidt@ktrask.de>
 Description: The Goertzel algorithm is faster than using a fast Fourier transform, if only a few Fourier components are requested
 License: GPL (>= 2)
+SystemRequirements: C++20
+NeedsCompilation: yes
 Imports: Rcpp (>= 0.12.3)
 LinkingTo: Rcpp
