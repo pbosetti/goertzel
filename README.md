@@ -1,5 +1,7 @@
 # goertzel
 
+[![CI](https://github.com/ktrask/goertzel/actions/workflows/ci.yml/badge.svg)](https://github.com/ktrask/goertzel/actions/workflows/ci.yml)
+
 `goertzel` is a small multi-language package around the Goertzel algorithm.
 
 The project keeps the original R package entry point and now also exposes:
